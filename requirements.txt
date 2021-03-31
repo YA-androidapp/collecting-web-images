@@ -9,7 +9,7 @@ icrawler==0.6.2
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
-lxml==4.3.4
+lxml==4.6.3
 MarkupSafe==1.1.1
 Pillow==6.2.0
 pycodestyle==2.5.0
